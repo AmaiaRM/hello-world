@@ -52,5 +52,8 @@ Git checkout:
 Permite desplazarte entre las diferentes versiones de código de un repositorio, tanto entre ramas como archivos y confirmaciones. Una de las ventajas de Git es el desarrollo mediante ramas. Si se desea probar cambios o intentar solucionar errores, se genera una nueva rama para alojarlos de tal forma que el “código prueba” no desestabilice el principal. Y “git checkout” permite desplazarte sobre estas ramas creadas.
  
 Otro comando interesante es “git branch” que indica la rama sobre la que se está trabajando. En nuestro caso, como no hemos creado ninguna rama extra, seguimos sobre la principal.
+
+
+(se incluyen capturas de los logs en el archvo pdf pr1_amaia)
  
 
