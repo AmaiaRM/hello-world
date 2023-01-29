@@ -54,6 +54,6 @@ Permite desplazarte entre las diferentes versiones de código de un repositorio,
 Otro comando interesante es “git branch” que indica la rama sobre la que se está trabajando. En nuestro caso, como no hemos creado ninguna rama extra, seguimos sobre la principal.
 
 
-(se incluyen capturas de los logs en el archvo pdf pr1_amaia)
+(se incluyen capturas de los logs en el archivo pdf pr1_amaia)
  
 
